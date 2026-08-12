@@ -239,7 +239,11 @@
 
       // 7. CTA
       '<div class="callout info" style="align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;margin-top:20px">' +
-        '<div style="display:flex;gap:11px;align-items:center"><span class="c-ico">🚀</span><div>학습을 마쳤다면 실제 캠페인 URL을 기준으로 <b>source·medium·campaign 값을 직접 구분</b>해 보세요.</div></div>' +
+        '<div style="display:flex;gap:11px;align-items:center"><span class="c-ico">🚀</span><div>이제 개념은 충분해요. <b>직접 UTM을 만들어 볼 차례</b>입니다!</div></div>' +
+        '<div class="btn-row">' +
+          '<button id="utmLearnGlossary" class="btn btn-ghost">📖 용어 사전</button>' +
+          '<button id="utmLearnGoBuilder" class="btn btn-primary">UTM 빌더로 이동 →</button>' +
+        '</div>' +
       '</div>' +
 
     '</div>';
